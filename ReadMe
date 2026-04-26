@@ -1,0 +1,31 @@
+# Task 2: Stock Price Prediction
+## Objective
+The objective of this task is to predict stock closing prices using historical data.
+
+## Dataset
+Apple (AAPL) stock data collected using yfinance.
+
+## Model
+Linear Regression
+
+## Work Done
+* Loaded stock data using yfinance
+* Selected features (Open, High, Low, Volume)
+* Split data into training and testing sets
+* Trained Linear Regression model
+* Compared predicted vs actual values
+
+## Results
+* Model captured general price trends
+* Predictions were close to actual values
+* Minor deviations observed
+
+## Tools Used
+* Python
+* Pandas
+* Scikit-learn
+* Matplotlib
+* yfinance
+
+## Author
+Ashita kumari
